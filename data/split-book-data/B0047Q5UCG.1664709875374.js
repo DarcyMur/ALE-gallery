@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Returning to Kyoto, where temple bells announce the New Year, a grave and penitent Oki is drawn to a haunting obsession from his past. Gently lyrical, yet fierce with the stark intensity of passion, Kawabata's last novel tells the story of the lasting consequences of a brief love affair. </p>"; 

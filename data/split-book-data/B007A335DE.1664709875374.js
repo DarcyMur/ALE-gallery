@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>“Wake up! Wake up, there! Murder!” A hostler spits out these vehement words while he turbulently sleeps. He is haunted by a phantasm. It is a phantasm with a droop in the left eye, long flaxen hair, and a long buckhorn clasp knife. </p>"; 

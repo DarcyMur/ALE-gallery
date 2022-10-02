@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The Peace of Amiens has left Jack Aubrey with no ship, no enemy to pursue, and no possibility of prize money to supplement his meager income. His decision to seek refuge from his troubles, and creditors, in France proves doubly disastrous."; 

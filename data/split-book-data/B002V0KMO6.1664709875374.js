@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "This third volume in David Attenborough's \"Early Years\" trilogy recounts his expedition to Australia in search of more rare species. <p> As with the previous two titles, <i>Zoo Quest for a Dragon</i> and <i>Quest in Paradise</i>, it is read by Attenborough and provides an educative and entertaining account of his adventures.</p>"; 

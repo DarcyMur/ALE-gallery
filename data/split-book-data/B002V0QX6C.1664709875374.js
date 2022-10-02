@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "This memoir is soaked in the sunshine of Corfu, where Gerald Durrell lived as a boy, surrounded by his eccentric family - as well as puppies, toads, scorpions, geckoes, ladybugs, glowworms, octopuses, bats, and butterflies."; 

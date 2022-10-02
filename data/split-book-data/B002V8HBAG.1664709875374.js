@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<i>Day of Infamy</i> is Walter Lord's gripping, vivid re-creation of the Japanese attack on Pearl Harbor on Sunday, December 7, 1941. The listener accompanies Admiral Nagumo's task force as it sweeps toward Hawaii; looks on while warning after warning is ignored on Oahu; and is enmeshed in the panic, confusion, and heroism of the final attack."; 

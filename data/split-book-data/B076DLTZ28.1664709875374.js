@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From the acclaimed master of action and suspense. The all-time classic. </p> <p>Paul Sherman of Interpol's Narcotics Bureau flies to Amsterdam on the trail of a dope king. </p> <p>With enormous skill the atmosphere is built up: Amsterdam with its canals and high houses; stolid police; psychopaths; women in distress; and above all, murder. </p>"; 

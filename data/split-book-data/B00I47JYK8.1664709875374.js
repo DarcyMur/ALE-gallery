@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Bruno Courrèges - provincial French police chief extraordinaire - is back in another delectable tale of mystery and suspense that unfolds in the gastronomically ravishing Dordogne.</p>"; 

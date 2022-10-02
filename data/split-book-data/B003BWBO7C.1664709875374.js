@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In these witty and comic stories, Horace Rumpole takes on a variety of clients and activities. He, of course, brings each case to a successful end, all the while quoting poetry and drinking claret.</p>"; 

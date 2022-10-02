@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Writer for the <i>New York Times</i> and <i>GQ</i>, Mark Adams is also the acclaimed author of <i>Mr. America</i>. In this fascinating travelogue, Adams follows in the controversial footsteps of Hiram Bingham III, who’s been both lionized and vilified for his discovery of the famed Lost City in 1911 - but which reputation is justified?</p>"; 

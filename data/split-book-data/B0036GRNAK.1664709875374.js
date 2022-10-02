@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Mr Shaitana was famous as a flamboyant party host. Nevertheless, he was a man of whom everybody was a little afraid. So, when he boasted to Poirot that he considered murder an art form, the detective had some reservations about accepting a party invitation to view Shaitana's private collection."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Tragedy strikes at the estate at Styles. An old woman dies from what appears to be strychnine poisoning. The funny little Belgian, Hercule Poirot, is called in to investigate, though he appears to disregard every bit of damaging evidence. Has the great detective lost his touch? </p>"; 

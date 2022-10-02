@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Experience the new nonfiction book from the author of the <i>New York Times</i> best seller <i>Dead Certain.</i> <i>When the Tea Party Came to Town</i> is the definitive book about the Bush Presidency, a revealing and riveting look at the new House of Representatives elected in the history-making 2010 midterm elections.</p>"; 

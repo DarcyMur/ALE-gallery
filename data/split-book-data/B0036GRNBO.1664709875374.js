@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It's seven in the morning. The Bantrys wake to find the body of a young woman in their library. She is wearing evening dress and heavy make-up, which is now smeared across her cheeks. But who is she? How did she get there? And what is the connection with another dead girl, whose charred remains are later discovered in an abandoned quarry?</p>"; 

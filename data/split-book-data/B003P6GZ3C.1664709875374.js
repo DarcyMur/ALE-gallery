@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The irrepressible, audacious defence barrister Horace Rumpole whose court scenes are proverbial, and whose home is ruled by Mrs Rumpole, is back in these short stories by John Mortimer. The much loved stories were adapted from his scripts for the hugely popular TV series of the same name.</p>"; 

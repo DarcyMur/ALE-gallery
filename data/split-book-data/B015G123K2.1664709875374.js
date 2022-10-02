@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>It was planned as an act of charity: a new piano for the parish hall, an amusing play to finance the gift. But its execution was doomed when Miss Campanula sat down to play. </p> <p>A chord was struck, a shot rang out and Miss Campanula was dead. A case of sinister infatuation for the brilliant Chief Detective-Inspector Alleyn.</p>"; 

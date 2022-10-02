@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the tradition of John Reed's classic <i>Ten Days That Shook the World</i>, this best-selling account of the collapse of the Soviet Union combines the global vision of the best historical scholarship with the immediacy of eyewitness journalism. </p>"; 

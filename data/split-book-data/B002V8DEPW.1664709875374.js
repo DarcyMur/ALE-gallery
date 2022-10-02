@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The Appalachian Trail covers 14 states and over 2,000 miles, snaking through some of the most spectacular landscapes in America. Reluctant adventurer Bryson recounts his gruelling hike along the longest continuous footpath in the world."; 

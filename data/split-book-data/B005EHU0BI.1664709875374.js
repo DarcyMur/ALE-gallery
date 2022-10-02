@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Gold Dagger Award winner Arnaldur Indridason’s novels featuring Inspector Erlendur Sveinsson became international sensations on their way to selling millions of copies worldwide. The debut of morose detective Sveinsson finds the inspector and his team delving into the murder of a retiree with horrifying secrets. </p>"; 

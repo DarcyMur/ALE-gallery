@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Based on previously unpublished documents, diaries, notes, photographs, and dramatic interviews with Hitler's colleagues and associates, this is the definitive biography of one of the most despised yet fascinating figures of the 20th century. Painstakingly documented, it is a work that will not soon be forgotten.</p>"; 

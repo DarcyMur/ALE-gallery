@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Maurice Questing was left to die in a pool of boiling mud. Chief Inspector Roderick Alleyn knew that any number of people could have killed him: the English exiles he'd hated, the New Zealanders he'd despised or the Maoris he'd insulted. Even the spies he'd thwarted - if he wasn't a spy himself. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In this intimate portrait of an island lobstering community and an eccentric band of renegade biologists, journalist Trevor Corson escorts the listener onto the slippery decks of fishing boats, through danger-filled scuba dives, and deep into the churning currents of the Gulf of Maine to learn about the secret undersea lives of lobsters.</p>"; 

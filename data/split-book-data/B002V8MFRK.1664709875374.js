@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "When the beautiful daughter of Sir Basil Moidore is stabbed to death in her bed, Inspector Monk and Nurse Latterly uncover a tale of shame and scandal that threatens to destroy a powerful London dynasty."; 

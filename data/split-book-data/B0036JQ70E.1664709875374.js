@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Australia has more things that can kill you than anywhere else. Nevertheless, Bill Bryson journeyed to the country and promptly fell in love with it. The people are cheerful, their cities are clean, the beer is cold, and the sun nearly always shines."; 

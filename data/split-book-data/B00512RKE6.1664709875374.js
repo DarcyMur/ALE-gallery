@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Emily Pollifax is one of a precious few gray-haired female sleuths who solve their cases through unflagging determination, moral courage and wisdom that comes with age. In <i>The Amazing Mrs. Pollifax</i>, Emily answers the call of that “nice Mr. Carstairs” to go to Istanbul as a courier and search for a missing agent.</p>"; 

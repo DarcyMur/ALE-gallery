@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>After many days at sea, Edward Prendick is picked up by a schooner transporting exotic animals to an undisclosed location. On this secret island he is forced to disembark, catching faint glimpses of creatures born from nightmares. </p>"; 

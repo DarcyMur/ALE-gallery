@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "The author travels from London to Baghdad by train, following the route of an identical journey made by Agatha Christie in 1928. Many of the countries Eames passes through have been deeply troubled in recent years. Merging literary biography with travel adventure, <i>The 8.55 to Baghdad</i> is the journey of a lifetime."; 

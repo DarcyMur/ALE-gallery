@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Clarence L. \"Kelly\" Johnson led the design of such crucial aircraft as the P-38 and Constellation, but he will be more remembered for the U-2 and SR-71 spy planes. His extraordinary leadership of the Lockheed \"Skunk Works\" cemented his reputation as a legendary figure in American aerospace management.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>At the height of World War II, with the Third Reich's final solution in full operation, a small group of Jews who had barely escaped the Nazis did the unthinkable: They went back. Spies now, these men took on a dangerous mission behind enemy lines. <i>They Dared Return</i> is their story - a tale of adventure, espionage, love, and revenge.</p>"; 

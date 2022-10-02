@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>These are the valiant and lyrically descriptive letters, written in 1873, by Isabella Bird, a courageous and spirited Englishwoman, telling her sister of her adventures on horseback over 800 miles of American wilderness.</p>"; 

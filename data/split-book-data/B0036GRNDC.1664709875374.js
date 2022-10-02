@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Everyone blamed Emily's accident on a rubber ball left on the stairs by her frisky terrier. But the more she thought about her fall, the more convinced she became that one of her relatives was trying to kill her."; 

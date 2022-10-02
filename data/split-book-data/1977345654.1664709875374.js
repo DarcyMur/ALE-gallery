@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>This is the story of the Owens' travel and life in the Kalahari Desert. Here they met and studied unique animals and were confronted with danger from drought, fire, storms, and the animals they loved. This best-selling book is for both travelers and animal lovers.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The irrepressible, audacious defence barrister Horace Rumpole is back with seven marvelous stories by John Mortimer. The much loved stories were adapted from his scripts for the hugely popular TV series of the same name.</p>"; 

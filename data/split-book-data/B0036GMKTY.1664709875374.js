@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Among the towering red cliffs of Petra, like some monstrous swollen Buddha, sat the corpse of Mrs Boynton. A tiny puncture mark on her wrist was the only sign of the fatal injection that had killed her."; 

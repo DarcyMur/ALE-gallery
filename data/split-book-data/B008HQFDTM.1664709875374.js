@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Meet Agatha Raisin, high-flying public relations boss turned village sleuth. After her many years of bullying and cajoling others, her early retirement to a picture-perfect village in the Cotswolds is a dream come true.</p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>From best-selling author Jack Higgins comes a new thriller reuniting heroic American agent Blake Johnson and ex-IRA enforcer Sean Dillon. They join forces in a desperate race to stop a fanatical clan of international warriors from taking its ultimate revenge. Its target? The President of the United States.</p>"; 

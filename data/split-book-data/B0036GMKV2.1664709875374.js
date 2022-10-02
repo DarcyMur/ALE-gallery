@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "When the luxurious Blue Train arrives at Nice, a guard attempts to wake serene Ruth Kettering from her slumbers. But she will never wake again, for a heavy blow has killed her, disfiguring her features almost beyond recognition. What is more, her precious rubies are missing."; 

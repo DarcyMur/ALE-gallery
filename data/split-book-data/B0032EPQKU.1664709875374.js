@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>A tragic accident leaves Inspector Monk with amnesia just moments after he solves the murder of a popular Crimean war hero. Forced to redo his entire investigation, a frustrated Monk faces a desperate murderer who will do anything to keep the inspector from discovering the truth twice.</p>"; 

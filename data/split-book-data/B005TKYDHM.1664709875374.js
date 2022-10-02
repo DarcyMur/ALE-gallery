@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Best-selling author Martin Walker’s previous two novels starring Chief of Police Bruno Courrèges became hits with fans and critics around the globe. In this thrilling third mystery, Bruno has his hands full with trouble in the truffle trade in St. Denis’ marketplace. And when a friend is murdered, things really start heating up. </p>"; 

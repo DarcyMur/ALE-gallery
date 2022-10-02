@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "There's a serial killer on the loose, bent on working his way through the alphabet. And as a macabre calling card he leaves beside each victim's corpe the ABC Railway Guide open at the name of the town where the murder has taken place."; 

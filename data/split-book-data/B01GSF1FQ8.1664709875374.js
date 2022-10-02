@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>David Mitchell hosts the panel game in which four comedians are encouraged to tell lies and compete against one another to see how many items of truth they're able to smuggle past their opponents. </p>"; 

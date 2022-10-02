@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Just after midnight, a snowdrift stopped the Orient Express in its tracks. The luxurious train was surprisingly full for the time of the year. But by the morning there was one passenger fewer. An American lay dead in his compartment, stabbed a dozen times, his door locked from the inside."; 

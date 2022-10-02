@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The irrepressible, audacious defence barrister Horace Rumpole continues to juggle the vagaries of the law, the ambiguities of crime, and the contradictions of the human heart. The much loved stories were adapted from his scripts for the hugely popular TV series of the same name.</p>"; 

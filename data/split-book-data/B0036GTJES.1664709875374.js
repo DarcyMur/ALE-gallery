@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "Here are 12 ingenious, witty mysteries showing the author at her best, including: the curious disappearance of Lord Listerdale, the strange meeting on a train of a feckless man and a beautiful girl, and Philomel Cottage and the extraordinary country house visit of Edward Robinson. Each is expertly narrated by Hugh Fraser."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The fifth volume in the M.C. Beaton mystery series, starring Penelope Keith.</p> <p>After pursuing him for nearly four years, Agatha is finally about to marry James Lacey, the handsome Colonel next door. But there's just one little problem.</p>"; 
